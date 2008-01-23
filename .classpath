@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="src" path=""/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="ui.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/ecologylabFundamental"/>
-	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="output" path=""/>
 </classpath>
